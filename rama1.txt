@@ -1,0 +1,2 @@
+linea 1 añadida a rama1 desde master
+linea 2 añadida a rama1 desde master
