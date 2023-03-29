@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 linea 1 añadida a rama1 desde master
 linea 2 añadida a rama1 desde master
+=======
+linea 1
+linea 2
+otra linea mas
+y otra mas
+>>>>>>> miramaNombre
